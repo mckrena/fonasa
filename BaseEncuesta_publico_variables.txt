@@ -1,0 +1,47 @@
+              storage   display    value
+variable name   type    format     label      variable label
+----------------------------------------------------------------------------------------
+COD_BENEF_BI    double  %10.0g                Codigo beneficiario
+FECHAINI        str10   %10s                  Fecha de inicio de la entrevista
+HORAINI         str8    %8s                   Hora de inicio de la entrevista
+DURACION        double  %12.0g                Duración de la entrevista
+CSE_RSH         double  %12.0g     CSE_RSH    Registro Social Hogares
+EDAD_GRUPO      double  %12.0g     EDAD_GRUPO Grupo etario
+SEXO            double  %12.0g     SEXO       Sexo
+DIRECCION_ZONAL double  %12.0g     DIRECCION_ZONAL Dirección Zonal
+P00             double  %12.0g     P00        Dispuesto a participar
+P0              double  %12.0g     P0         Verificación nombre
+P1              double  %12.0g     P1         Previsión de salud
+P2              double  %29.0g     P2         Razón porque está en Fonasa
+P3              double  %12.0g     P3         ¿Se cambiaría de sistema de salud?
+P4              double  %12.0g     P4         Asistencia presencial consulta médica
+P5              double  %12.0g     P5         Asistencia de telemedicina
+P6              double  %27.0g     P6         Razón de inansistencia control médico
+P7              double  %12.0g     P7         Diagnóstico crónico
+P8_1            double  %14.0g     P8         Urgencia consulta general
+P8_2            double  %14.0g     P8         Urgencia consulta especialidad
+P8_3            double  %14.0g     P8         Urgencia cirugía
+P8_4            double  %14.0g     P8         Urgencia examen
+P8_5            double  %14.0g     P8         Urgencia consulta dental
+P8_6            double  %14.0g     P8         Urgencia consulta psicológica o psiquiátrica
+P8_7            double  %14.0g     P8         Urgencia tratamiento rehabilitación
+P9              double  %21.0g     P9         Opinión sobre telemedicina
+P10             double  %12.0g     P10        Consumo medicamentos
+P11             double  %17.0g     P11        Receta medicamentos
+P12             double  %12.0g     P12        Retiro medicamentos
+P13             double  %38.0g     P13        Razón de no retiro medicamentos
+P14             double  %12.0g     P14        Compra de medicamentos
+P15             double  %12.0g                Gasto medicamentos
+P16             double  %12.0g     P16        Dejó de consumir medicamentos
+P17             double  %12.0g     P17        Conocimientos descuento en farmacias
+P18             double  %12.0g     P18        Uso de descuento en farmacias
+P19             double  %26.0g     P19        Situación laboral
+P20             double  %23.0g     P20        Deuda hospitalaria
+P21             double  %12.0g                Monto deuda
+P22             double  %12.0g     P22        Seguro complementario
+P23             double  %12.0g                Monto seguro complementario
+P24             double  %12.0g     P24        Comuna
+P25             double  %12.0g     P25        Autorización datos administrativos
+P26             double  %12.0g     P26        Nuevo contacto
+FE              float   %9.0g                 Factor expansion
+                                              indicated variables have notes
